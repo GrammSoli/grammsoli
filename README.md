@@ -1,4 +1,4 @@
-[![](https://raw.githubusercontent.com/grammsoli/grammsoli/master/profile.gif)]
+![](https://raw.githubusercontent.com/grammsoli/grammsoli/master/profile.gif)
 
 ### Languages
 
