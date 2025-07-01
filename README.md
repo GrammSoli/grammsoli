@@ -13,4 +13,4 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 
 
-<a href="https://grammsoli.ru/"><img height="120px" src="https://github-readme-stats.vercel.app/api?username=grammsoli&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dark" /><!-- wi*quL3fcV --><img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grammsoli&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=dark" /></a>
+<a href="https://grammsoli.ru/"><img height="120px" src="https://github-readme-stats.vercel.app/api?username=grammsoli&theme=dark&hide_title=true&hide_border=true&show_icons=true&count_private=true&line_height=21"/><!-- wi*quL3fcV --><img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grammsoli&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=dark" /></a>
